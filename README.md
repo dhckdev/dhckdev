@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Damian - a CS Student Who Loves to Code 🚀</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+whoami;dhckdev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+whoami)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=dhckdev)](https://git.io/typing-svg)
 ---
 
 <h3 align="center">🧠 What I Love</h3>
