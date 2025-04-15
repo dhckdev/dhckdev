@@ -40,7 +40,7 @@
 <h3 align="center">📫 Let's Connect </h3>
 
 <p align="center">
-  <a href="https://discord.com/users/dawiplays">
+  <a href="https://discord.com/users/dhckdev">
     <img src="https://skillicons.dev/icons?i=discord&theme=light" />
   </a>
   <a href="https://www.linkedin.com/in/damian-huckele-164bb3197">
