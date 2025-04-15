@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h3 align="center">Currently learning </h3>
+<h3 align="center">📚 Currently Exploring </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
