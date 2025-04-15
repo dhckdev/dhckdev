@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,go,kotlin" />
+    <img src="https://skillicons.dev/icons?i=r,rust,kotlin" />
   </a>
 </p>
 
