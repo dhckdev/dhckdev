@@ -19,8 +19,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,py,go,r" />
+    <img src="https://skillicons.dev/icons?i=java,js,py" />
     <img src="https://skillicons.dev/icons?i=html,nextjs,npm,spring,vue" />
+  </a>
+</p>
+
+<h3 align="center">Currently learning </h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,go,kotlin" />
   </a>
 </p>
 
