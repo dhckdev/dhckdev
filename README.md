@@ -8,12 +8,14 @@
 
 <h3 align="center">🧠 What I Love</h3>
 
-<p align="center">
+<div align="center">
+
 - 💻 Coding things that solve real problems  
 - 🌱 Constantly learning new tools and tech  
 - 🔧 Experimenting with side projects (some chaotic, all fun)  
 - 🧩 Figuring out how things work under the hood
-</p>
+</div>
+
 
 ---
 
