@@ -17,7 +17,7 @@
 
 <h3 align="center">🚀 Tech Stack & Tools</h3>
 
-<p align="center>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&theme=light" />
   </a>
