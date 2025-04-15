@@ -33,10 +33,18 @@
 
 ---
 
-<h3 align="center">📫 Let's Connect</h3>
+<h3 align="center">📫 Let's Connect </h3>
 
 <p align="center">
-  Find me on <a href="https://www.linkedin.com/in/damian-huckele-164bb3197/">LinkedIn</a> 
+  <a href="https://discord.com/users/dawiplays">
+    <img src="https://skillicons.dev/icons?i=discord&theme=light" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/damian-huckele-164bb3197">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
 </p>
 
 <p align="center">
