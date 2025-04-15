@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$whoami;I'm+Damian;Welcome+to+my+profile&size=40&center=True&height=70)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$whoami;I'm+Damian;aka+dhckdev;Welcome&size=40&center=True&height=70)](https://git.io/typing-svg)
 
 ---
 
