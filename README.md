@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=$whoami;I'm+Damian;aka+dhckdev;Welcome&size=40&center=True&height=70" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=$whoami;I'm+Damian;aka+dhckdev;Welcome+to+my+GitHub&size=40&center=True&height=70&color=orange" />
   </a>
 </div>
 
