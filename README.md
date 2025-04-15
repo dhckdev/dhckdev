@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Damian - a CS Student Who Loves to Build 🚀</h1>
+<h1 align="center">Hey there! 👋 I'm Damian - a CS Student Who Loves to Code 🚀</h1>
 
 <p align="center">
   I'm passionate about creating cool stuff, learning new technologies, and turning ideas into code. Whether it's backend logic or front-end flair, I'm all about making things that are both smart and snappy.
