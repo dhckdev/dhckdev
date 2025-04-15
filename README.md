@@ -17,7 +17,8 @@
 
 <h3 align="center">🚀 Tech Stack & Tools</h3>
 
-<p align="center">
+<div align="center> 
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&theme=light" />
   </a>
@@ -25,12 +26,12 @@
 
 <h3 align="center">Currently learning </h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,rust,kotlin&theme=light" />
   </a>
 </p>
-
+</div>
 ---
 
 <h3 align="center">📫 Let's Connect </h3>
