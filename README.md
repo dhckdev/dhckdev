@@ -17,8 +17,7 @@
 
 <h3 align="center">🚀 Tech Stack & Tools</h3>
 
-<div align="center> 
-<p>
+<p align="center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&theme=light" />
   </a>
@@ -26,12 +25,12 @@
 
 <h3 align="center">Currently learning </h3>
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,rust,kotlin&theme=light" />
   </a>
 </p>
-</div>
+
 ---
 
 <h3 align="center">📫 Let's Connect </h3>
@@ -40,9 +39,6 @@
   <a href="https://discord.com/users/dawiplays">
     <img src="https://skillicons.dev/icons?i=discord&theme=light" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/damian-huckele-164bb3197">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
