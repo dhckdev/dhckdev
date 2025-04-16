@@ -2,13 +2,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=$whoami&size=40&center=True&height=60&width=500&duration=7000&pause=70000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=$whoami&size=40&False=True&height=60&width=500&duration=7000&pause=70000" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20+user:+dhckdev;welcome+to+my+github&size=40&center=True&height=60&width=500&duration=7000" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20+user:+dhckdev;welcome+to+my+github&size=40&center=False&height=60&width=500&duration=7000" /></a>
 </div>
 
 ---
