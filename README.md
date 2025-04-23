@@ -53,6 +53,9 @@
   <a href="https://www.linkedin.com/in/damian-huckele-164bb3197">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
+  <a href="https://dev.to/dhckdev">
+    <img src="https://skillicons.dev/icons?i=devto&theme=light" />
+  </a>
 </p>
 
 <p align="center">
