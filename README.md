@@ -1,6 +1,4 @@
-<div>
-  <img src="banner.png" />
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
