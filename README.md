@@ -32,7 +32,7 @@ public class User {
     }
 
     public List<String> explore() {
-        return Arrays.asList("R", "C++", "Kotlin", "Android Studio");
+        return Arrays.asList("Golang", "C++", "Kotlin", "R");
     }
     
 }
