@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&perline=4" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,cpp,kotlin,androidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=r,cpp,kotlin,androidstudio" />
   </a>
 </p>
 
@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="https://discord.com/users/dhckdev">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://www.linkedin.com/in/damian-huckele-164bb3197">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://dev.to/dhckdev">
-    <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
 
