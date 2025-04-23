@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&theme=light&perline=4" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,rust,kotlin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=r,cpp,kotlin&theme=light" />
   </a>
 </p>
 
