@@ -9,7 +9,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class dhckdev {
+public class User {
 
     private String friendlyName;
     private String userName;
@@ -20,7 +20,7 @@ public class dhckdev {
     private List<String> code;
     private List<String> technologies;
 
-    public dhckdev() {
+    public User() {
         this.friendlyName = "Damian";
         this.userName = "dhckdev";
         this.age = 24;
