@@ -37,24 +37,6 @@ public class User {
     
 }
 ```
-</div>
-
-<h3 align="center">🚀 Tech Stack & Tools</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,html,nodejs,npm,spring,vue&perline=4" />
-  </a>
-</p>
-
-<h3 align="center">📚 Currently Exploring </h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,cpp,kotlin,r" />
-  </a>
-</p>
-
 ---
 
 <h3 align="center">📫 Let's Connect </h3>
