@@ -1,5 +1,6 @@
 <h1 align="center">Hey there! 👋 </h1>
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=$whoami&size=40&False=True&height=60&width=500&duration=1000&pause=70000" />
@@ -10,10 +11,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=%20dhckdev;welcome+to+my+github&size=40&center=False&height=60&width=500&duration=3000" /></a>
 </div>
-
----
-
-<h3 align="center">🧠 What I Love</h3>
 
 <div>
   
@@ -50,9 +47,6 @@ public class Me {
 }
 ```
 </div>
-
-
----
 
 <h3 align="center">🚀 Tech Stack & Tools</h3>
 
