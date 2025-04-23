@@ -11,14 +11,14 @@ import java.util.List;
 
 public class Me {
 
-    private final String friendlyName;
-    private final String userName;
-    private final int age;
-    private final String location;
-    private final String occupation;
+    private String friendlyName;
+    private String userName;
+    private int age;
+    private String location;
+    private String occupation;
 
-    private final List<String> code;
-    private final List<String> technologies;
+    private List<String> code;
+    private List<String> technologies;
 
     public Me() {
         this.friendlyName = "Damian";
