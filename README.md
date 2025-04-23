@@ -15,7 +15,7 @@
 
 <h3 align="center">🧠 What I Love</h3>
 
-<div align="center">
+<div>
   
 ```java
 import java.util.Arrays;
