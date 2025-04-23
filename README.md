@@ -16,11 +16,39 @@
 <h3 align="center">🧠 What I Love</h3>
 
 <div align="center">
+  
+```java
+import java.util.Arrays;
+import java.util.List;
 
-💻 Coding things that solve real problems  
-🌱 Constantly learning new tools and tech  
-🔧 Experimenting with side projects (some chaotic, all fun)  
-🧩 Figuring out how things work under the hood
+public class Me {
+
+    private final String friendlyName;
+    private final String userName;
+    private final int age;
+    private final String location;
+    private final String occupation;
+
+    private final List<String> code;
+    private final List<String> technologies;
+
+    public Me() {
+        this.friendlyName = "Damian";
+        this.userName = "dhckdev";
+        this.age = 24;
+        this.location = "Switzerland";
+        this.occupation = "University Student";
+
+        this.code = Arrays.asList("Java", "Python", "JavaScript");
+        this.technologies = Arrays.asList("Next.js", "Vue", "Spring", "npm");
+    }
+
+    public List<String> explore() {
+        return Arrays.asList("R", "C++", "Kotlin", "Android Studio");
+    }
+    
+}
+```
 </div>
 
 
