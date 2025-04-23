@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="https://discord.com/users/dhckdev">
-    <img src="https://skillicons.dev/icons?i=discord&theme=light" />
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
   </a>
   <a href="https://www.linkedin.com/in/damian-huckele-164bb3197">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://dev.to/dhckdev">
-    <img src="https://skillicons.dev/icons?i=devto&theme=light" />
+    <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
   </a>
 </p>
 
