@@ -51,7 +51,7 @@ public class User {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,cpp,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=golang,cpp,kotlin,r" />
   </a>
 </p>
 
