@@ -28,7 +28,7 @@ public class User {
         this.occupation = "University Student";
 
         this.code = Arrays.asList("Java", "Python", "JavaScript");
-        this.technologies = Arrays.asList("Next.js", "Vue", "Spring", "npm");
+        this.technologies = Arrays.asList("nodejs", "Vue", "Spring", "npm");
     }
 
     public List<String> explore() {
@@ -43,7 +43,7 @@ public class User {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,html,nextjs,npm,spring,vue&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,nodejs,npm,spring,vue&perline=4" />
   </a>
 </p>
 
