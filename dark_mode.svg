@@ -29,15 +29,16 @@
 <text x="25" y="430" fill="#8b949e" xml:space="preserve">  ----:--=++*+.@%#########%%%%@..+***+==-----</text>
 <text x="25" y="445" fill="#8b949e" xml:space="preserve">==----::::-=++++++=.......-+******+==-:::::--</text>
 <text x="25" y="460" fill="#8b949e" xml:space="preserve">--::::.:::::--===++++++++++====---:::::-::---</text>
-<text x="390" y="123" xml:space="preserve"><tspan fill="#58a6ff">dhckdev@github </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
-<text x="390" y="165" xml:space="preserve"><tspan fill="#ffa657">User: </tspan><tspan fill="#484f58">........................................... </tspan><tspan fill="#c9d1d9">Damian</tspan></text>
-<text x="390" y="186" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">....................................... </tspan><tspan fill="#c9d1d9">25 years</tspan></text>
-<text x="390" y="207" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">...................................... </tspan><tspan fill="#c9d1d9">Switzerland</tspan></text>
-<text x="390" y="228" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">............................. </tspan><tspan fill="#c9d1d9">University Student</tspan></text>
-<text x="390" y="270" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">Java, Python, SQL</tspan></text>
-<text x="390" y="291" xml:space="preserve"><tspan fill="#ffa657">Exploring: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">C#, Kotlin, R</tspan></text>
-<text x="390" y="333" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
-<text x="390" y="354" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">3 {Contributed: 0}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="390" y="375" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">93</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="390" y="396" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">536</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">768++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">232--</tspan><tspan fill="#484f58"> )</tspan></text>
+<text x="390" y="113" xml:space="preserve"><tspan fill="#58a6ff">dhckdev@github </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
+<text x="390" y="155" xml:space="preserve"><tspan fill="#ffa657">User: </tspan><tspan fill="#484f58">........................................... </tspan><tspan fill="#c9d1d9">Damian</tspan></text>
+<text x="390" y="176" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">....................................... </tspan><tspan fill="#c9d1d9">25 years</tspan></text>
+<text x="390" y="197" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">...................................... </tspan><tspan fill="#c9d1d9">Switzerland</tspan></text>
+<text x="390" y="218" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">.................................... </tspan><tspan fill="#c9d1d9">MSc Student</tspan></text>
+<text x="390" y="239" xml:space="preserve"><tspan fill="#ffa657">Process: </tspan><tspan fill="#484f58">.......................... </tspan><tspan fill="#c9d1d9">Junior Data Engineer</tspan></text>
+<text x="390" y="281" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">Java, Python, SQL</tspan></text>
+<text x="390" y="302" xml:space="preserve"><tspan fill="#ffa657">Exploring: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">C#, Kotlin, R</tspan></text>
+<text x="390" y="344" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
+<text x="390" y="365" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">3 {Contributed: 0}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">0</tspan></text>
+<text x="390" y="386" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">94</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">0</tspan></text>
+<text x="390" y="407" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">537</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">770++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">233--</tspan><tspan fill="#484f58"> )</tspan></text>
 </svg>
