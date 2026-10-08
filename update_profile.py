@@ -10,10 +10,10 @@ import urllib.request
 from datetime import date, datetime, timezone
 
 USER = "dhckdev"
-BIRTHDAY = None  # e.g. date(2002, 5, 17) -> Uptime counts years/months/days live
-AGE = 24          # shown while BIRTHDAY is None
-JOINED_YEAR = 2020  # set to the year your GitHub account was created  # account creation year, never changes
-W = 56  # info column width in characters
+BIRTHDAY = None  
+AGE = 25          
+JOINED_YEAR = 2024  
+W = 56
 
 ART = r"""
                    -::::.:==:#
